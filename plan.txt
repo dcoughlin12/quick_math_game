@@ -1,0 +1,14 @@
+Nouns
+
+players
+  - two players. each player is initiated with 3 lives, and a player is set as player 1 or lpayer 2
+    - each player keeps track of lives
+  turns
+  - need to keep track of who's turn it is
+  - maybe could store it in a boolean?
+
+
+questions
+  - 20 questions? new questions should be initiated with an question and an answer
+  - method: check_attempt(answer)--- this will compare actual answer to attempt
+
